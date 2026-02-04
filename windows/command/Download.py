@@ -1,6 +1,7 @@
 import jmcomic as jm
+import os, sys
 
-print(f'Input jmcomic Car_ID')
+print(f'请输入 jmcomic 车号')
 
 car_id = input()
 
