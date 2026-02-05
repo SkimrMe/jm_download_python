@@ -2,3 +2,5 @@ db/**
 **/venv/**
 **/dist/**
 **/build/**
+*.spec
+**/jm_/**
