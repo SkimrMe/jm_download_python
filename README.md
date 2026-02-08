@@ -1,6 +1,6 @@
 ### <a href="https://gitea.ww3.tw/skimrme/jm_download_python/src/branch/main/README.md">介绍</a> | <a href="https://gitea.ww3.tw/skimrme/jm_download_python/releases">releases</a>（私人gitea地址）
 
-# jm_download-_python [docs](https://skimrme.github.io/jm_download_python/)
+# jm_download_python [docs](https://skimrme.github.io/jm_download_python/)
 jm_download _python
 
 
